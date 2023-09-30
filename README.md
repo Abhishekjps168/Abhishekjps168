@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Sharma
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nodejs and React
-- 💞️ I’m looking to collaborate on Web-dev projects to improve my Portfolio
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science projects to improve my Portfolio
 - 📫 You an reach me on abhishekjps168@gmail.com.
