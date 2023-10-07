@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhishek Sharma
 
-![Your Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffuertedevelopers.com%2F&psig=AOvVaw2MiUwxM-O98l8OR6TSaVTI&ust=1696803521710000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDj_O775IEDFQAAAAAdAAAAABAf)
+![Your Profile Banner](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
 
 I'm a passionate data scientist and frontend developer based in Maharashtra, India. Welcome to my GitHub profile, where I showcase my work in data science and web development.
 
