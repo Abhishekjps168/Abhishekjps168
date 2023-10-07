@@ -30,13 +30,13 @@ I'm a passionate data scientist and frontend developer based in Maharashtra, Ind
 
 ## 📊 GitHub Stats
 
-[![Ahishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisheks-Workspace)](https://github.com/Abhisheks-Workspace/github-readme-stats)
+![Abhisheks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisheks-Workspace&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abhishek-sharma-b3b965178)
+- LinkedIn: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-b3b965178)
 - Twitter: [@ABHISHEKJPS168](https://twitter.com/AbhishekJPS168)
-- Website: [Portfolio](https://abhisheks-workspace.github.io/)
+- Website: [My Portfolio](https://abhisheks-workspace.github.io/)
 
 ## ❤️ Support
 
