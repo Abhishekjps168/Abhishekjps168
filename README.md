@@ -34,7 +34,11 @@ I'm a passionate data scientist and frontend developer based in Maharashtra, Ind
 
 ## 📊 Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheks-Workspace&layout=pie)](https://github.com/Abhisheks-Workspace/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheks-Workspace&layout=pie) 
+
+## 📫 Connect with Me
+
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhisheks-Workspace)(https://github.com/Abhisheks-Workspace/github-readme-stats)
 
 ## 📫 Connect with Me
 
