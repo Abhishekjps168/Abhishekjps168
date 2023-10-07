@@ -2,7 +2,7 @@
 
 I'm a passionate data scientist and frontend developer based in Maharashtra, India. Welcome to my GitHub profile, where I showcase my work in data science and web development.
 
-![Developer Image](Developer.jpg){width=200 px}
+![Developer Image](Developer.jpg){width=200px}
 
 ## 🌱 About Me
 
