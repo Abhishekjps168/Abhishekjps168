@@ -40,9 +40,7 @@ I'm a passionate data scientist and frontend developer based in Maharashtra, Ind
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-b3b965178)
-- Twitter: [@ABHISHEKJPS168](https://twitter.com/AbhishekJPS168)
-- Website: [My Portfolio](https://abhisheks-workspace.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-b3b965178), [Twitter](https://twitter.com/AbhishekJPS168), [Website](https://abhisheks-workspace.github.io/)
 
 ## ❤️ Support
 
