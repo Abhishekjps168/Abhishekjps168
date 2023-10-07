@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Abhishek Sharma
-
-<center><img src="Developer.jpg" width="80" height="80"></center>
+# 👋 Hello, I'm Abhishek Sharma.
 
 I'm a passionate data scientist and frontend developer based in Maharashtra, India. Welcome to my GitHub profile, where I showcase my work in data science and web development.
 
@@ -32,7 +30,7 @@ I'm a passionate data scientist and frontend developer based in Maharashtra, Ind
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+[![Ahishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhisheks-Workspace)](https://github.com/Abhisheks-Workspace/github-readme-stats)
 
 ## 📫 Connect with Me
 
